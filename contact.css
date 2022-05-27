@@ -1,0 +1,13 @@
+form {
+    display: grid;
+    width: 300px;
+    gap: 1rem;
+    padding: 10px;
+}
+
+div{
+    align-content: center;
+    justify-content: center;
+    background-color: aquamarine;
+    margin:40px;
+}
